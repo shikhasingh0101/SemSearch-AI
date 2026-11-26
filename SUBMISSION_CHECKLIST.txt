@@ -1,0 +1,8 @@
+FINAL SUBMISSION CHECKLIST
+[ ] Replace the group-member placeholder on the report cover with all names and roll numbers.
+[ ] Install requirements and run the semantic search application locally.
+[ ] Capture genuine screenshots of the Streamlit UI and terminal outputs.
+[ ] Run the five test queries and record top-five relevance judgements.
+[ ] Calculate Precision@5 for both approaches using manually labelled relevance.
+[ ] Add the measured observations to the report and slide 4 before submission.
+[ ] Submit the PDF report, four-slide PPTX and project ZIP/source folder as instructed.
