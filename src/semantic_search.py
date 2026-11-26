@@ -332,11 +332,7 @@ def main():
 
         st.write(f"Total records: {len(engine.df)}")
 
-        st.dataframe(
-            engine.df,
-            width="stretch"
-        )
-
+        st.table(engine.df)
     st.caption(
         "SemSearch AI | Group 3 | "
         "Sentence Transformers + FAISS + TF-IDF"
